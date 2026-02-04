@@ -1,6 +1,6 @@
 # 工具安装与环境配置
 
-本章节介绍如果安装d2x工具并创建模板项目, 以及基础的环境配置
+本章节介绍如果安装d2x工具并获取项目
 
 ## 一、安装d2x工具
 
@@ -39,31 +39,17 @@ xlings install d2x
 
 TODO...
 
-## 二、创建项目 & 测试
+## 二、获取项目
 
-### 创建项目
-
-**通过模块创建(推荐)**
-
-点击 [新建教程模板](https://github.com/new?template_name=d2x-project-template&template_owner=d2learn) 按钮, 通过模板仓库创建新教程项目. 然后, 再把生成的仓库clone到本地
+### 安装项目
 
 ```bash
-git clone git@github.com:your_name/your_repo_name.git
+d2x install mcpp-start
 ```
 
-**本地创建**
+### 用法
 
-通过`d2x new xxx`命令创建一个新项目
-
-```
-d2x new d2hello
-```
-
-命令运行后会生成一个叫`d2hello`的目录, 进入/打开这个目录就能看到项目的基础结构
-
-### 测试
-
-进入新创建项目的根目录, 运行命令进行测试完整性
+进入项目的根目录, 运行命令进行使用
 
 **查看文档命令测试**
 
