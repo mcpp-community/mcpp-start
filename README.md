@@ -1,6 +1,6 @@
-# 现代C++启动! - `import std`
+# 现代C++启动! - `import std` (筹备中...)
 
-> 筹备中...
+> 面向零基础的C++入门教程, 了解C++发展背景和生态以及基础语法
 
 [![d2x](https://img.shields.io/badge/d2x-ok-green.svg)](https://github.com/d2learn/d2x)
 [![online-ebook](https://img.shields.io/badge/online-ebook-orange.svg)](https://github.com/d2learn/d2x)
